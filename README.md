@@ -1,5 +1,5 @@
 # Water storage calculator - milestones
-- Create fully functional calculator
+Create fully functional calculator
 
 - Create shiny layout - done
 
